@@ -5,7 +5,7 @@ import CountUp from "react-countup";
 const ImpressiveFigures = () => {
   return (
     <>
-      <div className="bg-[url(/images/bg-impressive-figures.png)] bg-no-repeat py-10">
+      <div className="bg-[url(/images/bg-impressive-figures.png)] bg-no-repeat bg-cover py-10">
         <div className="container p-5">
           <div className="mb-5 text-center">
             <Heading content="số liệu ấn tượng"></Heading>
